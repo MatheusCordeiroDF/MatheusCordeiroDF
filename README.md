@@ -22,7 +22,6 @@
   <img align="center" alt="Gb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gb-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gb-pic" height="150" style="border-radius:50px;" src="https://cdnb.artstation.com/p/assets/images/images/013/978/861/large/vicki-saidge42-leversedge-remembrance-day-2018-signature.jpg?1541944260">
 </div>
   
   ##

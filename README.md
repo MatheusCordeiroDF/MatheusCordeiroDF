@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatheusCordeiroDF
 - 👀 I’m interested in Java, Java Script, HTML, CSS & MYSql
 - 🌱 I’m currently learning Java & Java Script 
-- 💞️ I’m looking to collaborate on HTML & CSS
 - 📫 How to reach me contatomatheusdf@outlook.com / +556199354-0995
 
 ##

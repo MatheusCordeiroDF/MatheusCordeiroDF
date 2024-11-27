@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusCordeiroDF
 - 👀 Currently I work with web development using Php, Java Script, HTML, CSS & MYSql, pgAdmin.
-- 📫 How to reach me contatomatheusdf@outlook.com / +556199354-0995
+- 📫 How to reach me contatomatheusdf@outlook.com
 
 ##
 

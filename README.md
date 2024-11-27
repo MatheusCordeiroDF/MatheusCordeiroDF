@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @MatheusCordeiroDF
-- 👀 Currently I work with web development using Php, Java Script, HTML, CSS & MYSql, pgAdmin.
-- 📫 How to reach me contatomatheusdf@outlook.com
+👋 Hi, I’m **Matheus Cordeiro**  
+💻 **PHP Developer** with experience in **Laravel** and **CodeIgniter** frameworks.  
+🌐 Full Stack Developer skilled in **PHP**, **JavaScript**, **HTML**, **CSS**, **MySQL**, and **PostgreSQL**.  
+🔧 Proficient with **Git** and **GitHub** for version control and collaborative development.  
+🚀 Passionate about building scalable web applications and continuously improving my coding skills.  
+
+📫 How to reach me: [contatomatheusdf@outlook.com](mailto:contatomatheusdf@outlook.com)  
+
 
 ##
 
